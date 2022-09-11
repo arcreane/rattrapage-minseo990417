@@ -250,8 +250,6 @@
 		18BC89E828579B73005D6411 /* libopencv_bgsegm.4.5.5.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libopencv_bgsegm.4.5.5.dylib; path = ../../../../../../../../opt/homebrew/Cellar/opencv/4.5.5_2/lib/libopencv_bgsegm.4.5.5.dylib; sourceTree = "<group>"; };
 		18BC89E928579B73005D6411 /* libopencv_xfeatures2d.4.5.5.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libopencv_xfeatures2d.4.5.5.dylib; path = ../../../../../../../../opt/homebrew/Cellar/opencv/4.5.5_2/lib/libopencv_xfeatures2d.4.5.5.dylib; sourceTree = "<group>"; };
 		18BC8A5A28579C76005D6411 /* 2.1.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = 2.1.entitlements; sourceTree = "<group>"; };
-		18BC8A5B28579CAC005D6411 /* sample.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = sample.jpeg; path = ../../../../../../Downloads/sample.jpeg; sourceTree = "<group>"; };
-		18BC8A5C28579E13005D6411 /* Lenna.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Lenna.png; path = ../../../../../../Downloads/Lenna.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -510,8 +508,6 @@
 				18BC89C628579B73005D6411 /* libopencv_xphoto.4.5.5.dylib */,
 				18BC897B28579B72005D6411 /* libopencv_xphoto.a */,
 				18BC897328579AFE005D6411 /* main.cpp */,
-				18BC8A5C28579E13005D6411 /* Lenna.png */,
-				18BC8A5B28579CAC005D6411 /* sample.jpeg */,
 			);
 			path = 2.1;
 			sourceTree = "<group>";
